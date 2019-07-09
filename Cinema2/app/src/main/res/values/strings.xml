@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Cinema</string>
+    <!--앱 명 수정-->
+    <string name="app_name">씨네마천국</string>
 </resources>

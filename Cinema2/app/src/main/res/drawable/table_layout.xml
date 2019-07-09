@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--테이블 레이아웃 백그라운드로 회색 처리-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
 
-    <stroke
-        android:width="0.5dp"
-        android:color="#ff888888" />
-
-    <solid android:color="#FFFFFFFF" />
-
-    <padding
-        android:bottom="8dp"
-        android:left="8dp"
-        android:right="6dp"
-        android:top="8dp" />
+    <solid android:color="#99999999"/>
 
 </shape>

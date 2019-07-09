@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--영화 정보 부분 파란색 그라데이션 적용-->
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
 
     <gradient
